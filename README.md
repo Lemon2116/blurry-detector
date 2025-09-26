@@ -1,5 +1,5 @@
 # Blurry Detector
-'''blurry detector''' contains a blurry detector that detects blurriness of images, dividing them into "clear", "blurry", and "other" categories. It used the variance of the Laplacian method to calculate the change of intensity over the image. 
+```blurry-detector``` contains a blurry detector that detects blurriness of images, dividing them into "clear", "blurry", and "other" categories. It used the variance of the Laplacian method to calculate the change of intensity over the image. 
 
 ## Directory Structure
 ```blurry-detector/
